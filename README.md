@@ -71,7 +71,3 @@ The database consists of three main tables:
 GitHub: [github.com/Thevanand917](https://github.com/Thevanand917)
 
 ---
-
-## 📝 License
-
-This project is licensed under the MIT License.
